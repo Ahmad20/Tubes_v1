@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585918360 source:d:\data\kuliah\sem2\strukdat\tubes\tubes\body_tubes.cpp
+	"header_tubes.h"
+
+1585709358 d:\data\kuliah\sem2\strukdat\tubes\tubes\header_tubes.h
+	<iostream>
+
+1585920020 source:d:\data\kuliah\sem2\strukdat\tubes\tubes\main.cpp
+	<iostream>
+	"header_tubes.h"
+
